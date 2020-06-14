@@ -1,0 +1,1 @@
+The data file contains two columns. One is the date column and second is the price. Date column covers the period between 12-Jul-2016 to 20-Mar-2018.
