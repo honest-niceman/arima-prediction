@@ -1,0 +1,8 @@
+https://en.wikipedia.org/wiki/Dew_point
+
+Dew point in degrees Celsius 
+Humidity (percentage)
+Pressure in mBar 
+Temperature in degrees Celsius 
+Wind direction in degrees 
+Wind speed in kilometers per hour (kph)
